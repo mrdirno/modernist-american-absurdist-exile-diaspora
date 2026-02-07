@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-absurdist-exile-diaspora",
+  "title": "The Liar's Light of Paris",
+  "tagline": "An exiled academic adrift in Casablanca confronts the absurdity of belonging and the stories we tell to survive our own displacement.",
+  "target_words": 70876,
+  "actual_words": 70876,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Displacement and Errandlessness",
+    "The Dissolution of Meaning",
+    "Performative Identity",
+    "Post-Colonial Alienation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Horizontal Spite of Rain",
+      "words": 6443
+    },
+    {
+      "ch": 2,
+      "title": "The Pidgin Self in Room 3B",
+      "words": 6443
+    },
+    {
+      "ch": 3,
+      "title": "An Honorarium of Leaves",
+      "words": 6443
+    },
+    {
+      "ch": 4,
+      "title": "A Pebble in the Shoe",
+      "words": 6443
+    },
+    {
+      "ch": 5,
+      "title": "The Road as a Suggestion",
+      "words": 6443
+    },
+    {
+      "ch": 6,
+      "title": "A Reliquary of Quiet Smoke",
+      "words": 6443
+    },
+    {
+      "ch": 7,
+      "title": "The Substance of Dark",
+      "words": 6443
+    },
+    {
+      "ch": 8,
+      "title": "A Grey Rumour in Lyon",
+      "words": 6443
+    },
+    {
+      "ch": 9,
+      "title": "A Hero's Welcome of Tin",
+      "words": 6443
+    },
+    {
+      "ch": 10,
+      "title": "The Silence of a Stopped Clock",
+      "words": 6443
+    },
+    {
+      "ch": 11,
+      "title": "The Liar's Light of Paris",
+      "words": 6443
+    }
+  ]
+}
